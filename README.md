@@ -26,7 +26,8 @@ See [CHANGELOG.md](CHANGELOG.md) and [VERSION](VERSION).
 
 ## Play now (web)
 
-**[Launch the playable web version](https://k9dtv.com/space-wars-web/)** ([GitHub Pages mirror](https://k9dtv.github.io/tang-prime-web-space-wars/))
+- **[Full page on k9dtv.com](https://k9dtv.com/space-wars-web/)** - game plus notes on the site
+- **[Bare game (GitHub Pages)](https://k9dtv.github.io/tang-prime-web-space-wars/)** - canvas only, no site chrome
 
 Open that link to run the game in your browser (no install, no FPGA board).  
 Attract demo starts on load — press **Fire** (`Space` / `K`) for a 1:30 match.
