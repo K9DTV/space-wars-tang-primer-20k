@@ -8,6 +8,10 @@
 
 **Version 1.01.DONE** — board-tested on the Tang Primer 20K Dock + 5" LCD. Final release for this FPGA (chip is full).
 
+<p>
+  <img src="docs/Space_War_Hero.jpg" alt="Sipeed Tang Primer 20K Dock and LCD showing Space Wars attract screen - PUSH FIRE TO START" width="860" />
+</p>
+
 This is my very first FPGA design, and I built it in just a few days.  
 AI helped with Verilog edits and GitHub updates. I owned the architecture, bring-up plan, game rules, trade-offs, and the call to stop at 1.01.DONE when the chip was full.  
 There were many trade-offs in this design, and these choices led to the path I took.  
@@ -22,7 +26,7 @@ See [CHANGELOG.md](CHANGELOG.md) and [VERSION](VERSION).
 
 **Project page:** https://k9dtv.com/project-space-wars.html · **Site:** [k9dtv.com](https://k9dtv.com/)
 
-<video src="https://github.com/user-attachments/assets/6ea7ac7b-8eb3-4649-b89f-231c46eaa664" controls autoplay muted loop playsinline width="100%"></video>
+<video src="docs/Space_War_Video.mp4" controls muted playsinline width="100%"></video>
 
 ## Play now (web)
 
